@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegatesandeventRepository", "DelegatesandeventRepository\DelegatesandeventRepository.csproj", "{DF814413-5DE9-4991-AFF1-72D2E30A8129}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF814413-5DE9-4991-AFF1-72D2E30A8129}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF814413-5DE9-4991-AFF1-72D2E30A8129}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF814413-5DE9-4991-AFF1-72D2E30A8129}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF814413-5DE9-4991-AFF1-72D2E30A8129}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {766019D8-45FF-4614-8D3B-72E547ED5C38}
+	EndGlobalSection
+EndGlobal
